@@ -106,9 +106,9 @@
 <wire x1="24" y1="2" x2="24" y2="28" width="0" layer="20"/>
 <wire x1="24" y1="28" x2="0" y2="28" width="0" layer="20"/>
 <wire x1="0" y1="28" x2="0" y2="2" width="0" layer="20"/>
-<dimension x1="0" y1="28" x2="0" y2="2" x3="-8" y3="15" textsize="1.778" layer="48"/>
+<dimension x1="0" y1="28" x2="0" y2="2" x3="-11" y3="15" textsize="1.778" layer="48"/>
 <dimension x1="5" y1="5" x2="5" y2="2" x3="-2" y3="3.5" textsize="1.778" layer="48"/>
-<dimension x1="5" y1="5" x2="5" y2="25" x3="-5" y3="15" textsize="1.778" layer="48"/>
+<dimension x1="5" y1="5" x2="5" y2="25" x3="-8" y3="15" textsize="1.778" layer="48"/>
 <dimension x1="5" y1="25" x2="5" y2="28" x3="-2" y3="26.5" textsize="1.778" layer="48"/>
 <dimension x1="3" y1="25" x2="0" y2="25" x3="1.5" y3="33" textsize="1.778" layer="48"/>
 <dimension x1="3" y1="5" x2="0" y2="5" x3="1.5" y3="-1" textsize="1.778" layer="48"/>
@@ -121,6 +121,8 @@
 <rectangle x1="18" y1="2" x2="24" y2="8" layer="40"/>
 <rectangle x1="18" y1="22" x2="24" y2="28" layer="40"/>
 <dimension x1="0" y1="2" x2="24" y2="2" x3="12" y3="-4" textsize="1.778" layer="48"/>
+<dimension x1="0" y1="15" x2="0" y2="2" x3="-5" y3="8.5" textsize="1.778" layer="48"/>
+<dimension x1="16" y1="15" x2="16" y2="2" x3="29" y3="8.5" textsize="1.778" layer="48"/>
 </plain>
 <libraries>
 <library name="SparkFun">
@@ -252,11 +254,9 @@ We've spent an enormous amount of time creating and checking these footprints an
 <classes>
 <class number="0" name="default" width="0" drill="0">
 </class>
-<class number="1" name="GND" width="0.254" drill="0">
-<clearance class="1" value="0.254"/>
+<class number="1" name="GND" width="0" drill="0">
 </class>
-<class number="2" name="VBUS" width="0.254" drill="0">
-<clearance class="2" value="0.254"/>
+<class number="2" name="VBUS" width="0" drill="0">
 </class>
 </classes>
 <designrules name="Fusion_eagle_rule_v1.1">

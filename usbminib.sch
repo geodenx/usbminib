@@ -923,11 +923,9 @@ Datasheet: &lt;a href="http://www.hirose.co.jp/cataloge_hp/e24000153.pdf"&gt;e24
 <classes>
 <class number="0" name="default" width="0" drill="0">
 </class>
-<class number="1" name="GND" width="0.254" drill="0">
-<clearance class="1" value="0.254"/>
+<class number="1" name="GND" width="0" drill="0">
 </class>
-<class number="2" name="VBUS" width="0.254" drill="0">
-<clearance class="2" value="0.254"/>
+<class number="2" name="VBUS" width="0" drill="0">
 </class>
 </classes>
 <parts>
